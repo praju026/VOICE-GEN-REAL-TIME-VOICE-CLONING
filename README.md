@@ -75,7 +75,7 @@ depending on whether you downloaded any datasets. If you are running an X-server
    📥 Pretrained Models
 Pretrained models download automatically. If they don’t:
 
-Manually download from:
+Manually download from(also check this repo for original model):
 https://github.com/CorentinJ/Real-Time-Voice-Cloning/wiki/Pretrained-models
 
 Place files in: encoder/, synthesizer/, and vocoder/ folders respectively.
