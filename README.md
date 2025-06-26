@@ -86,3 +86,13 @@ Place files in: encoder/, synthesizer/, and vocoder/ folders respectively.
 Original repo by Corentin Jemine
 
 Research from Google AI, DeepMind, Baidu, and others
+
+
+## 👨‍💻 Final Year Project Team
+
+### Voice Cloning  Application
+**Contributors:**
+- [@prajwal p](https://github.com/praju026)
+- [@Appu](https://github.com/mohdafsar313)
+- [@teammate3](https://github.com/teammate3)
+- [@teammate4](https://github.com/teammate4)
