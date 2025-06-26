@@ -14,7 +14,7 @@ Originally created as a [Master’s thesis](https://matheo.uliege.be/handle/2268
 2. **Synthesizer (Tacotron)**: Uses the embedding and text to generate a mel spectrogram.
 3. **Vocoder (WaveRNN)**: Converts the mel spectrogram into raw audio.
 
----
+-
 
 ## 📄 Papers Implemented
 
